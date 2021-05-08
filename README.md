@@ -18,7 +18,7 @@ Download the latest release and unzip. it into your Packages folder.\
 Go to Sublime Text → Preferences → Browse Packages.\
 Rename the folder to Lotus.
 
-# Activate Theme
+# Activate Color Scheme
 
 Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
 Type UI: Select Theme locate lotus.sublime-theme and press ENTER.\
