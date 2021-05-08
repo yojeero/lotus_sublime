@@ -2,9 +2,7 @@
 
 A dark [Sublime Text](https://www.sublimetext.com) color scheme. 
 
-HTML + CSS + Javascript
-
-![JS preview](../main/docs/view.png)
+![preview](../main/docs/view.png)
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
