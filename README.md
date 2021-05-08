@@ -21,7 +21,7 @@ Rename the folder to Lotus.
 # Activate Color Scheme
 
 Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
-Type UI: Select Theme locate lotus.sublime-theme and press ENTER.\
+Type UI: Select Theme locate Lotus.sublime-theme and press ENTER.\
 Manually you can go to (Preferences > Settings - User) and paste the following code:\
 "color_scheme": "Packages/Lotus/Lotus.sublime-color-scheme",
 
