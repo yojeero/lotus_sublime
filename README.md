@@ -23,12 +23,12 @@ Rename the folder to Lotus.
 Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
 Type UI: Select Theme locate lotus.sublime-theme and press ENTER.\
 Manually you can go to (Preferences > Settings - User) and paste the following code:\
-"color_scheme": "Packages/Lotus/lotus.sublime-color-scheme",
+"color_scheme": "Packages/Lotus/Lotus.sublime-color-scheme",
 
 # Customization
 
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Lotus/lotus.sublime-color-scheme",	
+	"color_scheme": "Packages/Lotus/Lotus.sublime-color-scheme",	
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
 	"caret_extra_width": 0,	
