@@ -1,5 +1,5 @@
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+![preview](../main/docs/brand.png)
 
 ## Lotus - a [Sublime Text](https://www.sublimetext.com) color scheme.
 
