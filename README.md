@@ -1,31 +1,46 @@
-# Lotus Color Scheme
 
-A dark [Sublime Text](https://www.sublimetext.com) color scheme. 
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+## Lotus - a [Sublime Text](https://www.sublimetext.com) color scheme.
+
+A dark Sublime Text color scheme.
+
+<img src="../main/docs/spacer.png" width="1" height="1">
 
 ![preview](../main/docs/view.png)
 
-Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+<img src="../main/docs/spacer.png" width="1" height="1">
 
-# Installation
+### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
-Open Command Palette using the menu item Tools → Command Palette or CMD/CTRL + SHIFT +P.\
-Choose Package Control: Install Package.\
-Type Lotus and press ENTER.
+<img src="../main/docs/spacer.png" width="1" height="1">
 
-# Manually:
+## Install using Package Control
 
-Download the latest release and unzip. it into your Packages folder.\
-Go to Sublime Text → Preferences → Browse Packages.\
-Rename the folder to Lotus.
+[<img src="../main/docs/install.png" width="190" height="48">](https://packagecontrol.io/packages/Lotus%20Color%20Scheme)
 
-# Activate Color Scheme
+You can easily install the Lotus Color Scheme by using **Package Control** from the **Command Palette**:
 
-Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
-Type UI: Select Theme locate Lotus.sublime-theme and press ENTER.\
-Manually you can go to (Preferences > Settings - User) and paste the following code:\
-"color_scheme": "Packages/Lotus/Lotus.sublime-color-scheme",
+1. Enter `Package Control: Install Package`
+2. Search for `Lotus Color Scheme`
 
-# Customization
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+## Activating the Lotus Color Scheme
+
+Using the Command Palette, search for **UI: Select color scheme** and select:
+
+- **Lotus**.sublime-color-scheme
+
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+## Another way
+
+- go to **Preferences > Color Scheme** and select **Lotus**
+
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+**Customization**
 
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/Lotus/Lotus.sublime-color-scheme",	
@@ -37,4 +52,9 @@ Manually you can go to (Preferences > Settings - User) and paste the following c
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	
+
+<img src="../main/docs/spacer.png" width="1" height="1">
+
+## Usage license
+
+This work is licensed under a [MIT license](https://github.com/luxelego/lotus_color_scheme/blob/main/LICENSE).
