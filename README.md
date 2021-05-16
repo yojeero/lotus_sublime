@@ -5,12 +5,25 @@
 
 A dark Sublime Text color scheme.
 
-[![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Lotus%20Color%20Scheme.svg?style=flat-square)](https://packagecontrol.io/packages/Lotus%20Color%20Scheme/)
-[![GitHub watchers](https://img.shields.io/github/watchers/luxelego/lotus_color_scheme.svg?style=flat-square)](https://github.com/luxelego/lotus_color_scheme/watchers)
-
 <img src="../main/docs/spacer.png" width="1" height="1">
 
 ![preview](../main/docs/view.png)
+
+<p align="left">
+	
+<a href="https://packagecontrol.io/packages/Lotus%20Color%20Scheme" title="Downloads">
+<img src="https://img.shields.io/packagecontrol/dt/Lotus%20Color%20Scheme?style=for-the-badge"/>
+</a>	
+
+<a href="https://github.com/release/luxelego/lotus_color_scheme" title="Release">
+<img src="https://img.shields.io/github/release/luxelego/lotus_color_scheme.svg?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/luxelego/lotus_color_scheme/blob/main/LICENSE" title="License">
+<img src="https://img.shields.io/github/license/luxelego/lotus_color_scheme.svg?style=for-the-badge"/>
+</a>
+
+</p>
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
