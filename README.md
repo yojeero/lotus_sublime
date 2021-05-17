@@ -9,7 +9,7 @@ A dark Sublime Text color scheme.
 
 ![preview](../main/docs/view.png)
 
-<p align="left">
+<p>
 	
 <a href="https://packagecontrol.io/packages/Lotus%20Color%20Scheme" title="Downloads">
 <img src="https://img.shields.io/packagecontrol/dt/Lotus%20Color%20Scheme?style=for-the-badge"/>
