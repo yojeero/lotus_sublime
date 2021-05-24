@@ -11,7 +11,7 @@
 
 <img src="docs/spacer.png" width="1" height="1">
 
-### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 <img src="docs/spacer.png" width="1" height="1">
 
