@@ -67,7 +67,7 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 ## Usage license
 
