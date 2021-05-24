@@ -5,12 +5,6 @@
 
 <img src="docs/view-new.png" >
 
-[![Downloads](https://img.shields.io/packagecontrol/dt/Lotus%20Color%20Scheme?style=social)](https://packagecontrol.io/packages/Lotus%20Color%20Scheme)
-[![Version](https://img.shields.io/github/v/release/luxelego/lotus_color_scheme?style=social)](hhttps://packagecontrol.io/packages/Lotus%20Color%20Scheme)
-[![License](https://img.shields.io/github/license/luxelego/lotus_color_scheme?style=social)](https://github.com/luxelego/lotus_color_scheme/blob/main/LICENSE)
-
-<img src="docs/spacer.png" width="1" height="1">
-
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 <img src="docs/spacer.png" width="1" height="1">
