@@ -1,7 +1,7 @@
 
 <img src="docs/brand-new.png" >
 
-## Lotus - a dark [Sublime Text](https://www.sublimetext.com) color scheme.
+## Lotus - a dark [Sublime Text](https://www.sublimetext.com) color scheme
 
 <img src="docs/view-new.png" >
 
