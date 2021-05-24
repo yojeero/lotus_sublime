@@ -15,7 +15,7 @@
 
 <img src="docs/spacer.png" width="1" height="1">
 
-## Install using Package Control from the **Command Palette**
+## Install using Package Control
 
 1. Enter `Package Control: Install Package`
 2. Search for `Lotus Color Scheme`
