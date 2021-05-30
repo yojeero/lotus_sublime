@@ -33,6 +33,12 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	
+	## Sublime Text Icon	
+
+Download the **[Sublime Text](https://github.com/luxelego/sublime_icons)** app icon replacement. 
+
+[<img src="https://github.com/luxelego/sublime_icons/blob/main/png/st1.png" width="256" height="256">](https://github.com/luxelego/sublime_icons)  [<img src="https://github.com/luxelego/sublime_icons/blob/main/png/st2.png" width="256" height="256">](https://github.com/luxelego/sublime_icons)  [<img src="https://github.com/luxelego/sublime_icons/blob/main/png/st3.png" width="256" height="256">](https://github.com/luxelego/sublime_icons)
 
 ## Usage license
 
