@@ -32,9 +32,7 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 	"font_size": 10,	
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	
-	## Sublime Text Icon	
+	"line_padding_top": 1,	
 
 ## Usage license
 
