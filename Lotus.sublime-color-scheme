@@ -1,8 +1,8 @@
 {
     "name": "Lotus",
-    "homepage": "https://github.com/luxelego/lotus_color_scheme",
+    "homepage": "https://github.com/yojeero/lotus_sublime",
     "description": "Dark color scheme", 
-    "author": "Yoko",
+    "author": "@yojeero",
     "variables": 
 {
     "bg":  "#202734",    
