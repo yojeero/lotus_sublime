@@ -1,12 +1,12 @@
-<img src="img/top.jpg" >
+<img src="img/top.jpg" width="100%" max-width="800px">
 
-### Lotus - a dark [Sublime Text](https://www.sublimetext.com) color scheme.
+## Lotus - a dark [Sublime Text](https://www.sublimetext.com) color scheme.
 
 <img src="img/look.png" >
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-### Install using Package Control
+## Install using Package Control
 
 1. Enter `Package Control: Install Package`
 2. Search for `Lotus Color Scheme`
