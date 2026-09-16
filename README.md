@@ -1,6 +1,6 @@
 <img src="img/top.jpg" width="100%" max-width="800px">
 
-## Lotus - a dark [Sublime Text](https://www.sublimetext.com) color scheme.
+# Lotus - a dark [Sublime Text](https://www.sublimetext.com) color scheme.
 
 <img src="img/look.png" >
 
@@ -17,6 +17,6 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 
 - **Lotus**.sublime-color-scheme
 
-### Another way
+## Another way
 
 - go to **Preferences > Color Scheme** and select **Lotus**
