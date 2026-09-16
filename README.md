@@ -2,19 +2,9 @@
 
 ### `Lotus - the dark Sublime Text color scheme.`
 
-<img src="img/look.png" >
+Install using Package Control
 
-### Install using Package Control
-
-1. Enter `Package Control: Install Package`
-2. Search for `Lotus Color Scheme`
-
-### Activating the Lotus Color Scheme
-
-Using the Command Palette, search for **UI: Select color scheme** and select:
-
-- **Lotus**.sublime-color-scheme
-
-### Another way
-
-- go to **Preferences > Color Scheme** and select **Lotus**
+- Enter `Package Control: Install Package`
+- Search for `Lotus Color Scheme`
+- Activating the Alpen Color Scheme
+- **Preferences > Color Scheme** and select **Lotus**
