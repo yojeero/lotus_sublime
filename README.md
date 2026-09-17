@@ -1,6 +1,8 @@
 <img src="img/lotus.jpg" width="100%" max-width="800px">
 
-### `Lotus - the dark Sublime Text color scheme.`
+### Lotus - the dark color scheme.`
+
+> Sublime Text 
 
 Install using Package Control
 
